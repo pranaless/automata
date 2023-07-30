@@ -1,0 +1,13 @@
+name = "Automata"
+author = "pranaless"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d87ec9a32cfc799c3cde31efe9dd91b9f79d3f305b5ea8785dd87bd1b70e1ea8"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
